@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace otaviocipriano\phpframephork\core;
 
 use Dotenv\Dotenv;
 

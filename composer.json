@@ -3,7 +3,7 @@
     "description": "A simple framewokr create by me",
     "autoload": {
         "psr-4": {
-            "Otaviocipriano\\PhpFramework\\": "src/core"
+            "otaviocipriano\\phpframephork\\": "src/"
         }
     },
     "authors": [

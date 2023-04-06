@@ -1,5 +1,5 @@
 {
-    "name": "otaviocipriano/php-framework",
+    "name": "otaviocipriano/php-framephork",
     "description": "A simple framewokr create by me",
     "autoload": {
         "psr-4": {

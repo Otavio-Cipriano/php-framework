@@ -1,0 +1,19 @@
+{
+    "name": "otaviocipriano/php-framework",
+    "description": "A simple framewokr create by me",
+    "autoload": {
+        "psr-4": {
+            "Otaviocipriano\\PhpFramework\\": "src/core"
+        }
+    },
+    "authors": [
+        {
+            "name": "otavio-cipriano",
+            "email": "otavio.b.cipriano@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2.4",
+        "vlucas/phpdotenv": ">=v5.5.0"
+    }
+}

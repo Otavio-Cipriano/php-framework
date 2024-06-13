@@ -23,7 +23,7 @@ Welcome to the Simple PHP Framework! This is a lightweight and easy-to-use frame
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-php-framework.git
+   git clone https://github.com/Otavio-Cipriano/php-framework.git
    cd simple-php-framework
    ```
 

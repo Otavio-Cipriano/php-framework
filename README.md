@@ -1,6 +1,6 @@
 # Simple PHP Framework
 
-Welcome to the Simple PHP Framework! This is a lightweight and easy-to-use framework designed for quick development and prototyping. The framework includes essential components such as a router, database manipulator, validator, session handler, and view renderer.
+Welcome to the Simple PHP Framework! This is a lightweight and easy-to-use framework designed for quick development and prototyping. The framework includes essential components such as a router, database manipulator, validator, session handler, and view renderer. Implemented from scratch without external dependencies, including HTTP request/response abstraction, URI routing and MVC pattern
 
 ## Features
 
